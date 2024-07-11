@@ -1,0 +1,7 @@
+.hypothesis/*
+StringLibraryTest/bin/*
+StringLibraryTest/obj/*
+StringLibrary/bin/*
+StringLibrary/obj/*
+ShowCase/bin/*
+ShowCase/obj/*
